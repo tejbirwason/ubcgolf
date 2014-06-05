@@ -148,6 +148,10 @@ i.service-icon {
   text-align: center;
 }
 
+p.custom{
+  font-family: 'Amatic SC', arial, serif; 
+  font-size: 36px;
+}
 /* Callout */
 
 .callout {
